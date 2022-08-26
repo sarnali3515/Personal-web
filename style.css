@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+  
+}
+h1{
+    font-size: 30px;
+}
+p{
+    color: gray;
+    margin-bottom: 30px;
+
+}
+#name-highlight{
+    color:deeppink;
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
+    padding-top: 0%;
+}
+.half-width{
+    margin-top: 30px;
+    margin-left: 150px;
+    padding-left: 2%;
+    width: 40%;
+    float: left;
+}
+
+.half-width1{
+    width: 40%;
+    float: left;
+}
+.half-width1 img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-image: linear-gradient(90deg, pink, deeppink);
+}
+.top-banner{
+    background-image: url(Images/header-bg.png);
+}
