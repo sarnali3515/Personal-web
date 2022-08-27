@@ -40,5 +40,70 @@ p{
     background-image: linear-gradient(90deg, pink, deeppink);
 }
 .top-banner{
-    background-image: url(Images/header-bg.png);
+    background-image: url("Images/header-bg.png");
+    background-size: 100%;
+}
+.middle-part{
+    background-image: url("Images/biography-bg.png");
+    background-size:100%;
+}
+.half-width2{
+    width: 25%;
+    padding: 1%;
+    float: left;
+}
+.half-width2 img{
+    width: 100%;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.latest-work{
+    background-image: url("Images/latest-work-bg.png");
+    background-size: 100%;
+
+}
+#latest-title{
+    padding-left: 45%;
+    padding-top: 10%;
+    size: 50px;
+    padding-bottom: 2%;
+}
+#first-pic{
+    padding-left: 10%;
+}
+#client{
+    text-align: center;
+    padding-bottom: 2%;
+}
+.footer{
+    background-image: url("Images/footer-bg.png");
+    background-size: 100%;
+}
+#founder{
+    color: gray;
+    text-align: center;
+}
+#bruce{
+    text-align: center;
+}
+#last-p{
+    color: rgb(59, 58, 58);
+    text-align: center;   
+}
+.last-button{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: deeppink;
+
+    border-radius: 5px;
+    padding: 60px 40px;
+   
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
